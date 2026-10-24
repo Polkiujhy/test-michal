@@ -137,3 +137,4 @@ disable-model-invocation: true
 - [Tworzenie skilli i lokalizacje w Codexie — dokumentacja OpenAI](https://learn.chatgpt.com/docs/build-skills)
 - [Czym są skille — dokumentacja OpenAI](https://developers.openai.com/plugins/concepts/skills)
 - [Skille w Claude Code — dokumentacja Anthropic](https://code.claude.com/docs/en/skills)
+- [Claude Code — roadmap.sh](https://roadmap.sh/claude-code)
