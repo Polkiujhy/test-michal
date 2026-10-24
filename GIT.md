@@ -106,3 +106,7 @@ git diff --staged
 git commit -m "Dodaj dokumentację Git"
 git push -u origin dodaj-dokumentacje
 ```
+
+## Źródła
+
+- [Git i GitHub — roadmap.sh](https://roadmap.sh/git-github)
